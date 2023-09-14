@@ -2,3 +2,4 @@
 .venv/
 # Ignore the chrome driver
 ./chromedriver.exe
+./output
