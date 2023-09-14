@@ -1,5 +1,5 @@
 # Ignore the virtual environment
 .venv/
 # Ignore the chrome driver
-./chromedriver.exe
-./output
+chromedriver.exe
+output
